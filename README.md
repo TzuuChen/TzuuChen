@@ -11,11 +11,7 @@ Database: MySQL 是我的主力資料庫，用於高效管理和查詢數據。
 Others: 使用 Git 進行版本控制，ChatGPT 則成為我的腦力助手，讓靈感更上一層樓。
 <br>
 <br>
-🚀 What I Do
-<br>
-持續學習有關前端的知識，如GSAP、Material UI等，並將其運用進專案中。
-<br>
-<br>
+
 🎯 Fun Facts
 <br>
 不僅熱愛寫程式，還沉浸於音樂世界：喜歡彈吉他、看現場表演，享受音符和程式碼的雙重節奏。
